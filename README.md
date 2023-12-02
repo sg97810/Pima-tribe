@@ -1,2 +1,2 @@
-# Pima-tribe
-This project is focused on Exploratory Data Analysis and Model Training using Python. A notebook is shared for the analysis.  .
+# Pima-tribe projecct
+This project involves Exploratory Data Analysis (EDA) and Model Training in Python, focusing on diabetes in the Pima Indians tribe. The dataset, derived from a study on a Pima tribe, includes attributes like pregnancies, glucose levels, and family history. The objective is to analyze diabetes-related aspects through EDA and construct a classification model to predict diabetes status. The provided notebook contains prompts for filling in gaps and addressing questions to complete the analysis.
